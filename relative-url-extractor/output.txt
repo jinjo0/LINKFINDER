@@ -1,0 +1,138 @@
+
+C:\Users\opopk\OneDrive\Desktop\LINKFINDER\relative-url-extractor>linkder.bat
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  137k    0  137k    0     0   342k      0 --:--:-- --:--:-- --:--:--  343k
+/$
+/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  137k    0  137k    0     0   307k      0 --:--:-- --:--:-- --:--:--  307k
+/
+/a/
+/eval/
+/ping/
+/sdk/evalx/
+/events/diagnostic/
+/events/bulk/
+/?$
+/sdk/goals/
+/g,
+/_app
+/assets/mp-logo/apple-touch-icon-120.png
+//
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   939  100   939    0     0   4632      0 --:--:-- --:--:-- --:--:--  4648
+/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1745    0  1745    0     0   8608      0 --:--:-- --:--:-- --:--:--  8638
+/_next/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   161  100   161    0     0    749      0 --:--:-- --:--:-- --:--:--   748
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    92  100    92    0     0    441      0 --:--:-- --:--:-- --:--:--   444
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 92751    0 92751    0     0   297k      0 --:--:-- --:--:-- --:--:--  298k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 37644    0 37644    0     0   133k      0 --:--:-- --:--:-- --:--:--  133k
+/registration
+/assets/
+/assets/logo-full-purple-white.svg
+/api/submit/registration
+/onboarding/kyc
+/concierge
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  7027    0  7027    0     0  32926      0 --:--:-- --:--:-- --:--:-- 33146
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  105k    0  105k    0     0   337k      0 --:--:-- --:--:-- --:--:--  339k
+/404
+/_next/
+/_app
+/_error
+/_next/image
+/
+/_next/data/
+/index/
+//
+/(.+?)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  1745    0  1745    0     0   8193      0 --:--:-- --:--:-- --:--:--  8192
+/_next/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  137k    0  137k    0     0   322k      0 --:--:-- --:--:-- --:--:--  324k
+/$
+/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  105k    0  105k    0     0   334k      0 --:--:-- --:--:-- --:--:--  336k
+/404
+/_next/
+/_app
+/_error
+/_next/image
+/
+/_next/data/
+/index/
+//
+/(.+?)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  137k    0  137k    0     0   317k      0 --:--:-- --:--:-- --:--:--  318k
+/
+/a/
+/eval/
+/ping/
+/sdk/evalx/
+/events/diagnostic/
+/events/bulk/
+/?$
+/sdk/goals/
+/g,
+/_app
+/assets/mp-logo/apple-touch-icon-120.png
+//
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  7027    0  7027    0     0  31814      0 --:--:-- --:--:-- --:--:-- 31940
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 92751    0 92751    0     0   294k      0 --:--:-- --:--:-- --:--:--  295k
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 37644    0 37644    0     0   130k      0 --:--:-- --:--:-- --:--:--  131k
+/registration
+/assets/
+/assets/logo-full-purple-white.svg
+/api/submit/registration
+/onboarding/kyc
+/concierge
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   939  100   939    0     0   4302      0 --:--:-- --:--:-- --:--:--  4327
+/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   161  100   161    0     0    729      0 --:--:-- --:--:-- --:--:--   731
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100    92  100    92    0     0    438      0 --:--:-- --:--:-- --:--:--   440
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 12989    0 12989    0     0  34311      0 --:--:-- --:--:-- --:--:-- 34453
+/
+/assets/
+/assets/logo-full-purple-white.svg
+/concierge
+Appuyez sur une touche pour continuer...
+
+C:\Users\opopk\OneDrive\Desktop\LINKFINDER\relative-url-extractor>
